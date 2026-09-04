@@ -20,4 +20,4 @@
 #
 # NOVA_CLAIM_TOKEN is reserved for a future build that will enforce a first-run claim
 # gate. This build does not read it, so setting it has no effect yet.
-NOVA_CLAIM_TOKEN=
+NOVA_CLAIM_TOKEN=Asdf@4321
